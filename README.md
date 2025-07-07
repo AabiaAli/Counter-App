@@ -15,6 +15,11 @@ A simple counter application built with **HTML**, **CSS**, and **JavaScript**. T
 - **CSS** – Styling the UI  
 - **JavaScript** – Functional logic
 
+## Screenshot
+
+[App screenshot]![image](https://github.com/user-attachments/assets/86f8f2f5-123e-4d66-8c04-18ca067f60c0)
+
+
 ## Live Demo
 
  [Try it out on Netlify](https://lively-sawine-ebb97d.netlify.app/)
