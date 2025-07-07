@@ -17,7 +17,8 @@ A simple counter application built with **HTML**, **CSS**, and **JavaScript**. T
 
 ## Screenshot
 
-[App screenshot]![image](https://github.com/user-attachments/assets/86f8f2f5-123e-4d66-8c04-18ca067f60c0)
+[App screenshot]!(![image](https://github.com/user-attachments/assets/215c6509-d84d-42ea-ba21-aab5d62ce1ae)
+)
 
 
 ## Live Demo
