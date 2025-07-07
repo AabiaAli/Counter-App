@@ -1,19 +1,34 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Counter App
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+A simple counter application built with **HTML**, **CSS**, and **JavaScript**. The app includes an **Increment** button to increase the count and a **Save** button to log and display previous counts.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- Increment button to increase the counter  
+- Save button to store and display count history  
+- Clean and minimal design  
+- Fully responsive and deployed online
 
-Happy Coding!
+## Technologies Used
+
+- **HTML** – App structure  
+- **CSS** – Styling the UI  
+- **JavaScript** – Functional logic
+
+## Live Demo
+
+ [Try it out on Netlify](https://lively-sawine-ebb97d.netlify.app/)
+
+
+## How to Use
+
+1. Open the [live site](https://lively-sawine-ebb97d.netlify.app/) or clone this repo and open `index.html` in your browser.
+2. Click **Increment** to increase the count.
+3. Click **Save** to store the current count.
+
+
+## License
+
+This project is open source and free to use under the [MIT License](LICENSE).
+
+
