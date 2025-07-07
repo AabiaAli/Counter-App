@@ -9,7 +9,7 @@ body {
 .container {
     background: thistle;
     max-width: 80%;
-    height: 80;
+    height: 60%;
     margin: auto;
     border: 8px solid ;
     border-radius: 30px;
